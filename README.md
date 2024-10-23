@@ -2,6 +2,7 @@
 # Hello, I'm Pedro! 👋
 
 Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focado em projetos de desenvolvimento web e backend.
+
 I am a developer passionate about technology and programming. Currently, I am focused on web development and backend projects.
 
 ## 🚀 Tecnologias e Ferramentas / Technologies and Tools
@@ -15,11 +16,13 @@ I am a developer passionate about technology and programming. Currently, I am fo
 
 - [Chess System](https://github.com/seuusuario/chess_system):
 Um sistema de xadrez que permite a dois jogadores jogarem na mesma máquina.
+
 A chess system that allows two players to play on the same machine.
 
 ## 📚 Experiência / Experience
 
 Atualmente, estou estudando na FATEC Rio Preto e desenvolvendo projetos práticos para aprimorar minhas habilidades.
+
 I am currently studying at FATEC Rio Preto and developing practical projects to enhance my skills.
 
 ## 🌐 Redes Sociais / Social Media
